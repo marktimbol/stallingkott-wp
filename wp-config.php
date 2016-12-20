@@ -23,10 +23,10 @@
 define('DB_NAME', 'stallingkott_wp');
 
 /** MySQL database username */
-define('DB_USER', 'homestead');
+define('DB_USER', 'stallingkott');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'secret');
+define('DB_PASSWORD', 'ARK@Solutions13');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
